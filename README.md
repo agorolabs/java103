@@ -1,2 +1,2 @@
 # java103
-Exercises or Java Data Structures
+Exercises for Java Data Structures
